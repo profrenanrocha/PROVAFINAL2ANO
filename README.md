@@ -1,10 +1,7 @@
-# Site da Equipe Alura Start! 
+# Site feito pelos estudantes do 2º ano A do Colégio Estadual Costa e Silva de Cidade Gaúcha - PR
 
-Fiz esse site para divulgar a equipe de trabalho incrivel que eu participo! 
 
-Prototipo criado <a href="https://www.figma.com/file/fnayTC7vCARDn1aYsc6OGw/Prototipo-site?node-id=0%3A1" target="_blank" rel="noopener noreferrer">Figma</a>
+Trabalho feito em equipes, realizado na disciplina de Matemática II (Programação I) com coordenação do professor Renan Rocha.
 
-Links das imagens e icones: 
 
-- <a href="https://www.flaticon.com/packs/social-media-51?word=ui" title="Social media">Icones criados por Freepik - Flaticon</a>
-- <a href="https://storyset.com/education">Imagens retiradas do site Storyset</a>
+
